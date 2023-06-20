@@ -51,7 +51,7 @@ If you have any question, or if you want to explore potential collaborations, pl
 
 - Email: [conquerorrrr4@gmail.com](mailto:conquerorrrr4@gmail.com)
 - Telegram: [DasRasyo](https://t.me/DasRasyo)
-- Discord: Conqueror#1312
+- Discord: conqueror.prime
 
 <div align="center">
   <h1 style="text-align: center;">Acknowledgments</h1>
